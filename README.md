@@ -3,10 +3,7 @@ Coursework Project
 
 A machine learning project to build a binary classification model for sentiment analysis of movie ratings data.
 
-This project contains the following files and directory:
----datasets
----IMDbAnalyse.py
----README.txt
+This project contains the following files and directories: datasets (directories), IMDbAnalyse.py, README.txt.
 
 System Requirements
 This python script requires a python environment running at least python 3.6. 
